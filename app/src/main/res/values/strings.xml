@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PasswordsKeeper</string>
+
+    <string name="title_activity_enter_pin">EnterPinActivity</string>
+    <string name="set_pin_button">Dummy Button</string>
+    <string name="set_pin_content">DUMMY\nCONTENT</string>
+    <string name="facebook_application_id" translatable="false">1680651298915271</string>
+    <string name="twitter_consumer_key" translatable="false">h3pP8WMC0EZ1zpZhFAK3fQYzL</string>
+    <string name="twitter_consumer_secret" translatable="false">6vG5KqsSfRy8Ci3Y8sQ1aWXWw5E84oY8aWdX9eMNJfpXdmwMwN</string>
+    <string name="empty_recycler_view_msg">Seems you don\'t have any data, click here to add one.</string>
+</resources>

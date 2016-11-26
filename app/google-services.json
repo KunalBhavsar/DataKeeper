@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "502472617637",
+    "firebase_url": "https://passwordskeeper.firebaseio.com",
+    "project_id": "passwordskeeper",
+    "storage_bucket": "passwordskeeper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502472617637:android:f5183940314da5f0",
+        "android_client_info": {
+          "package_name": "com.jyotitech.passwordskeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502472617637-ug6ukq0fhgir5q2m5h44n5d3515mvg9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jyotitech.passwordskeeper",
+            "certificate_hash": "AC9F82BDE6A65521C3A35EBE739F3EF034D13270"
+          }
+        },
+        {
+          "client_id": "502472617637-jlt10nl6quspu17o26nr18tnug0baap6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2sVziAM8SbVF553h-4tFsMmL1HXMn70w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502472617637-jlt10nl6quspu17o26nr18tnug0baap6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
