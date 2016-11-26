@@ -16,5 +16,6 @@ public class PassKeeperApp extends Application {
     public void onCreate() {
         super.onCreate();
         SharedPreferenceUtils.init(this, TAG);
+        
     }
 }
